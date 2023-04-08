@@ -12,6 +12,7 @@ all HTMLs, CSSs and JavaScripts in zhangxukun.top(47.108.236.22)
 [抖音主页](https://www.douyin.com/user/self)
 
 
+---
 
-#### 未经授权，禁止转载。
-##### 转载请标明出处。
+#### ***未经授权，禁止转载。***
+##### ***转载请标明出处。***
