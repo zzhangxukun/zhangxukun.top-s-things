@@ -1,0 +1,21 @@
+div.a1 {
+    text-align: center;
+    height: 80px;
+    width: 800px;
+    margin: 20px auto;
+    line-height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: gold;
+}
+
+div.a2 {
+    text-align: center;
+    height: 84px;
+    width: 800px;
+    margin: 20px auto;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}

@@ -1,0 +1,13 @@
+#itsb {
+    background: transparent;
+    border-style: none;
+    color: rgb(255, 255, 255);
+}
+
+.ikuntextstart {
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(48, 48, 255);
+    border-style: solid;
+}

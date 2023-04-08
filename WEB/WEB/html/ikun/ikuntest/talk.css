@@ -1,0 +1,49 @@
+#tk {
+    width: 500px;
+    margin: 100px auto;
+}
+
+.tkL {
+    display: inline;
+    background-color: white;
+    float: left;
+}
+
+.tkR {
+    display: inline;
+    background-color: white;
+    float: right;
+}
+
+#tips {
+    color: gray;
+}
+
+.ikuntestmeitiuoduj {
+    width: auto;
+    height: auto;
+    transition: width 2s, height 2s;
+    -webkit-transition: width 2s, height 2s;
+}
+
+.ikuntestmeitiuoduj:hover {
+    width: 604px;
+    height: 530px;
+}
+
+#over {
+    color: rgb(55, 161, 255);
+}
+
+#fhbt {
+    background-color: white;
+    border-style: solid;
+}
+
+#jcz {
+    align-items: center;
+}
+
+#ts {
+    color: white;
+}

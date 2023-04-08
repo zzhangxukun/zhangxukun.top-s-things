@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>IKUN手速测试</title>
+        <!--外联-->
+        <link rel="Shortcut Icon" href="/WEB/pic/header/tb.ico" type="image/x-icon">
+        <link rel="stylesheet" type="text/css" href="/WEB/css/all.css">
+        <link rel="stylesheet" type="text/css" href="ikdl.css">
+        <link rel="stylesheet" type="text/css" href="../index.css">
+        <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="/WEB/js/all.js"></script>
+        <script src="ikdl.js"></script>
+    </head>
+    <body style="background-image: none; background-color: rgb(244, 244, 244);">
+        <!-- 容器 -->
+        <div class="all" id="rongqi">
+            <!-- bar -->
+            <nav class="navbar" role="navigation">
+                <div class="header" id="header">
+                    <a href="../../../../index.html">
+                        <button type="button" id="hdbt">
+                            <img src="/WEB/pic/header/tubiao.png" alt="[图片]您的浏览器不支持此元素" height="48" width="200" id="dhltp">
+                        </button>
+                    </a>
+                </div>
+                <div class="bardv">
+                    <ul class="navul">
+                        <li class="navli"><a href="/WEB/html/zanzhu.html" class="nava">赞助</a></li>
+                        <li class="navli"><a href="https://work.weixin.qq.com/kfid/kfc8225f24ea1428fdd" class="nava">客服</a></li>
+                    </ul>
+                </div>
+                <form class="hide" action="/WEB/index.asp" method="get">
+                    <input type="text" name="hiadet">
+                    <input type="submit" name="hides" value="提交" id="hides">
+                </form>
+            </nav>
+            <!--a-->
+            <div class="center" id="ts">
+                <h2>点击您看到的蔡徐坤</h2>
+                <p>剩余时间：</p><span id="sysj"></span>
+            </div>
+            <!--开始时弹窗-->
+            <div id="tanczz">
+                <div class="tanc">
+                    <p class="tanc_tt">准备好开始了么？</p>
+                    <br>
+                    <p class="tanc_zw">请在60S内点击您看到的蔡徐坤</p>
+                    <br><br><br>
+                    <div class="tanc_btn">
+                        <a href="../ikunindex.html">
+                            <button class="nobtn">取消</button>
+                        </a>
+                        <button class="yesbtn" onclick="hidetanc()">准备好了</button>
+                    </div>
+                </div>
+            </div>
+            <!--开始时弹窗end-->
+            <div id="tancxx">
+                <div class="tanc">
+                    <p class="tanc_tt">时间到！</p>
+                    <p class="tanc_zw">您的分数为</p><p class="inline tanc_zw" id="ikdlfs"></p>
+                    <p class="tanc_zw" id="ikuntst"></p>
+                    <div class="tanc_btn">
+                        <a href="../ikunindex.html">
+                            <button class="nobtn">返回</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div id="dipk">
+                <img src="/WEB/pic/dlcxk.png" onclick="spawnpic_b()" id="dipkpk">
+            </div>
+            <div id="xiamian"></div>
+        </div>
+    </body>
+</html>

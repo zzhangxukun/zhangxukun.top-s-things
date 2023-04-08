@@ -1,0 +1,155 @@
+﻿body {
+    font-size: 100%;
+    background-image: url('../pic/river.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1em;
+}
+
+
+
+/*a's things (down) */
+
+
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(56, 56, 56);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(24, 24, 24);
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(30, 30, 30);
+    text-decoration: underline;
+}
+
+
+
+/*a's things (up) */
+
+
+
+nav.navbar {
+    height: 50px;
+    width: auto;
+    background-color: rgba(221, 221, 221, 0.873);
+    background-attachment: fixed;
+    font-size: 32px;
+    color: rgb(143, 143, 143);
+    border-bottom-style: solid;
+    border-width: 2px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+div.header {
+    display: inline;
+}
+
+#hdbt {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    display: inline;
+    float: left;
+}
+
+ul.navul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(221, 221, 221, 0.873);
+}
+li.navli {
+    float: left;
+    border-right: 1px solid gray;
+}
+
+div.bardv {
+    display: inline;
+}
+
+a.nava {
+    display: block;
+    padding: 4px;
+}
+
+li.navli a.nava:hover {
+    background-color: rgb(184, 184, 184);
+}
+
+.navactive {
+    background-color: grey;
+}
+
+/* -----------功能*------------*/
+
+.center {
+    text-align: center;
+}
+
+.tips {
+    color: gray;
+}
+
+.hide {
+    display: inline;
+    float: right;
+}
+
+#hides {
+    border-style: outset;
+    background: transparent;
+}
+
+.inline {
+    display: inline;
+}
+
+/* --------------#xiamian（下面）------------------- */
+
+#bot {
+    color: gray;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    flex: 1;
+}
+
+#1 {
+    display: inline;
+}
+
+#xiamiana {
+    color: gray;
+    text-decoration: none;
+}
+
+/* ---------------------------------------------------- */

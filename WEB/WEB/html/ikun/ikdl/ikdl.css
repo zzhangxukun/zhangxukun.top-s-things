@@ -1,0 +1,72 @@
+#tanczz {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tanc {
+    background-color: white;
+    max-width: 600px;
+    min-width: 200px;
+    height: 350px;
+    border-radius: 3px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.tanc_tt {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: solid 1px #cccccc;
+}
+
+.tanc_zw {
+    height: 30px;
+    line-height: 30px;
+    padding: 15px 20px;
+}
+
+.tanc_btn {
+    padding-bottom: 10px;
+}
+
+.tanc_btn button {
+    color: #778899;
+    width: 40%;
+    height: 40px;
+    cursor: pointer;
+    border: solid 1px #cccccc;
+    border-radius: 1px;
+    margin: 5px 10px;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+
+
+#tancxx {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+}
+
+
+
+
+#dipkpk {
+    width: 86.4px;
+}
+
+#dipk {
+    width: 86.4px;
+    height: 97.2px;
+    position: fixed;
+    display: none;
+}
