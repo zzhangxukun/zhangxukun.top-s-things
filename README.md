@@ -3,7 +3,7 @@ all HTMLs, CSSs and JavaScripts in zhangxukun.top(47.108.236.22)
 
 ---
 
-这个仓库里的所有东西都是[zhangxukun.top](zhangxukun.top)（[47.108.236.22](47.108.236.22)）的备份。
+这个仓库里的所有东西都是[zhangxukun.top](http://zhangxukun.top)（[47.108.236.22](http://47.108.236.22)）的备份。
 
 不定期更新。
 
