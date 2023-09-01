@@ -1,5 +1,9 @@
 var score = 0;
 const cxkdjyx = new Audio("../../../audio/cxkmz.mp3");
+const cxkdjyx2 = new Audio("../../../audio/cxkmz2.mp3");
+const cxkdjyx3 = new Audio("../../../audio/cxkmz3.mp3");
+const cxkdjyx4 = new Audio("../../../audio/cxkmz4.mp3");
+const cxkdjyx5 = new Audio("../../../audio/cxkmz5.mp3");
 
 
 
@@ -55,7 +59,22 @@ function spawnpic_b() {
     yy = y +"px";
     pic.style.top = yy;
     pic.style.left = xx;
-    cxkdjyx.play();
+    mscsjs = Math.floor(Math.random() * 5);
+    if (mscsjs == 4) {
+        cxkdjyx.play();
+    }
+    else if (mscsjs == 3) {
+        cxkdjyx2.play();
+    }
+    else if (mscsjs == 2) {
+        cxkdjyx3.play();
+    }
+    else if (mscsjs == 1) {
+        cxkdjyx4.play();
+    }
+    else {
+        cxkdjyx5.play();
+    }
 }
 
 
