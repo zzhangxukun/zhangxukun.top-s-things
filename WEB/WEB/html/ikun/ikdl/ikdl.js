@@ -1,5 +1,5 @@
 var score = 0;
-
+const cxkdjyx = new Audio("../../../audio/cxkmz.mp3");
 
 
 
@@ -18,7 +18,7 @@ function jsqstart() {
         var dqsj = new Date();
         var hydsj = sj.getTime() - dqsj.getTime();
         var hysj = hydsj / 1000;
-        Math.ceil(hysj);
+        hysj = Math.round(hysj);
         document.getElementById("sysj").innerHTML = hysj
     }
     var hysj = 1;
@@ -55,6 +55,7 @@ function spawnpic_b() {
     yy = y +"px";
     pic.style.top = yy;
     pic.style.left = xx;
+    cxkdjyx.play();
 }
 
 
