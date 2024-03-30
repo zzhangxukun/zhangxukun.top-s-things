@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 78">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: SimHei, SimHei;
+        font-size: 76.8px;
+      }
+
+      .cls-3 {
+        fill: #ff3c3c;
+      }
+
+      .cls-4 {
+        fill: #3c3cff;
+      }
+
+      .cls-5 {
+        fill: #3cff3c;
+      }
+
+      .cls-6 {
+        fill: #3cffff;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        fill: #ff3cff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="0" width="78" height="78"/>
+  <rect class="cls-7" x="2" y="2" width="74" height="74"/>
+  <rect class="cls-1" x="2" y="38" width="74" height="2"/>
+  <polygon class="cls-1" points="38 38.5 38 1 40 1 40 76 38 76 38 38.5"/>
+  <polygon class="cls-1" points="56.84 57.53 75.68 38.69 77.1 40.1 39.41 77.79 37.99 76.37 56.84 57.53"/>
+  <polygon class="cls-1" points="37.66 38.59 75.13 1.13 76.54 2.54 1.62 77.47 .2 76.05 37.66 38.59"/>
+  <polygon class="cls-1" points="19.05 19.21 37.89 .36 39.3 1.78 1.62 39.47 .2 38.05 19.05 19.21"/>
+  <polygon class="cls-1" points="38.29 39.76 .31 1.79 1.72 .37 77.68 76.33 76.26 77.74 38.29 39.76"/>
+  <polygon class="cls-1" points="19.16 58.63 .31 39.79 1.72 38.37 39.41 76.06 38 77.48 19.16 58.63"/>
+  <polygon class="cls-3" points="3.35 2 36.25 2 19.8 18.45 3.35 2"/>
+  <polygon class="cls-3" points="18.39 19.86 2 3.47 2 36.25 18.39 19.86"/>
+  <polygon class="cls-8" points="19.8 21.28 3.08 38 36.53 38 19.8 21.28"/>
+  <polygon class="cls-8" points="21.22 19.86 38 36.65 38 3 21.22 19.86"/>
+  <polygon class="cls-6" points="40 2 74.25 2 40 36.25 40 2"/>
+  <polygon class="cls-5" points="76.08 3 76 38 41.08 38 76.08 3"/>
+  <polygon class="cls-5" points="41.35 40 74.25 40 57.8 56.57 41.35 40"/>
+  <polygon class="cls-5" points="76 41.2 76 74.65 59.27 57.92 76 41.2"/>
+  <polygon class="cls-6" points="57.86 59.34 74.53 76 41.19 76 57.86 59.34"/>
+  <polygon class="cls-6" points="56.45 57.92 40 74.37 40 41.2 56.45 57.92"/>
+  <polygon class="cls-4" points="37.99 41.09 38 74.65 21.22 57.87 37.99 41.09"/>
+  <polygon class="cls-4" points="19.8 56.45 36.25 40 3.35 40 19.8 56.45"/>
+  <polygon class="cls-4" points="18.39 57.87 2 41.47 2 74.25 18.39 57.87"/>
+  <path class="cls-4" d="M19.86,59.22c.14-.22-16.78,16.78-16.78,16.78h33.45s-16.67-16.78-16.67-16.78Z"/>
+  <text class="cls-2" transform="translate(78 66) scale(.97 1)"><tspan x="0" y="0">ZHANGXUKUN</tspan></text>
+</svg>

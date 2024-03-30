@@ -12,7 +12,7 @@
     max-width: 600px;
     min-width: 200px;
     height: 350px;
-    border-radius: 3px;
+    border-radius: 20px;
     margin: 100px auto;
     text-align: center;
 }
@@ -39,7 +39,7 @@
     height: 40px;
     cursor: pointer;
     border: solid 1px #cccccc;
-    border-radius: 1px;
+    border-radius: 5px;
     margin: 5px 10px;
     color: #FFFFFF;
     background-color: #000000;

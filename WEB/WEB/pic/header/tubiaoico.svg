@@ -1,46 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 78">
   <defs>
     <style>
       .cls-1 {
-        fill: #fa9fff;
+        fill: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
       }
 
       .cls-2 {
-        fill: #84c97d;
+        fill: #ff3c3c;
       }
 
       .cls-3 {
-        fill: #99f;
+        fill: #3c3cff;
       }
 
       .cls-4 {
-        fill: #f8ff66;
+        fill: #3cff3c;
       }
 
       .cls-5 {
-        fill: #2f75f2;
+        fill: #3cffff;
       }
 
       .cls-6 {
-        fill: #ffc866;
+        fill: #fff;
       }
 
       .cls-7 {
-        fill: #55f997;
-      }
-
-      .cls-8 {
-        fill: #ffd38d;
+        fill: #ff3cff;
       }
     </style>
   </defs>
-  <rect class="cls-5" x="13" y="13" width="4" height="4"/>
-  <rect class="cls-7" width="30" height="4"/>
-  <rect class="cls-4" y="5" width="5" height="20"/>
-  <rect class="cls-6" x="6" y="5" width="23" height="7"/>
-  <rect class="cls-8" x="6" y="13" width="6" height="4"/>
-  <rect class="cls-3" y="26" width="30" height="4"/>
-  <rect class="cls-2" x="18" y="13" width="11" height="11"/>
-  <rect class="cls-1" x="6" y="18" width="11" height="6"/>
+  <rect class="cls-1" width="78" height="78"/>
+  <rect class="cls-6" x="2" y="2" width="74" height="74"/>
+  <rect class="cls-1" x="2" y="38" width="74" height="2"/>
+  <polygon class="cls-1" points="38 38.5 38 1 40 1 40 76 38 76 38 38.5"/>
+  <polygon class="cls-1" points="56.84 57.53 75.68 38.68 77.1 40.1 39.41 77.78 37.99 76.37 56.84 57.53"/>
+  <polygon class="cls-1" points="37.66 38.59 75.13 1.13 76.54 2.54 1.62 77.46 .2 76.05 37.66 38.59"/>
+  <polygon class="cls-1" points="19.05 19.21 37.89 .36 39.3 1.78 1.62 39.46 .2 38.05 19.05 19.21"/>
+  <polygon class="cls-1" points="38.29 39.76 .31 1.78 1.72 .37 77.68 76.32 76.26 77.74 38.29 39.76"/>
+  <polygon class="cls-1" points="19.16 58.63 .31 39.78 1.72 38.37 39.41 76.06 38 77.47 19.16 58.63"/>
+  <polygon class="cls-2" points="3.35 2 36.25 2 19.8 18.45 3.35 2"/>
+  <polygon class="cls-2" points="18.39 19.86 2 3.47 2 36.25 18.39 19.86"/>
+  <polygon class="cls-7" points="19.8 21.27 3.08 38 36.53 38 19.8 21.27"/>
+  <polygon class="cls-7" points="21.22 19.86 38 36.65 38 3 21.22 19.86"/>
+  <polygon class="cls-5" points="40 2 74.25 2 40 36.25 40 2"/>
+  <polygon class="cls-4" points="76.08 3 76 38 41.08 38 76.08 3"/>
+  <polygon class="cls-4" points="41.35 40 74.25 40 57.8 56.57 41.35 40"/>
+  <polygon class="cls-4" points="76 41.19 76 74.65 59.27 57.92 76 41.19"/>
+  <polygon class="cls-5" points="57.86 59.33 74.53 76 41.19 76 57.86 59.33"/>
+  <polygon class="cls-5" points="56.45 57.92 40 74.37 40 41.19 56.45 57.92"/>
+  <polygon class="cls-3" points="37.99 41.08 38 74.65 21.22 57.86 37.99 41.08"/>
+  <polygon class="cls-3" points="19.8 56.45 36.25 40 3.35 40 19.8 56.45"/>
+  <polygon class="cls-3" points="18.39 57.86 2 41.47 2 74.25 18.39 57.86"/>
+  <path class="cls-3" d="M19.86,59.22c.14-.22-16.78,16.78-16.78,16.78h33.45s-16.67-16.78-16.67-16.78Z"/>
 </svg>
