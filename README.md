@@ -13,6 +13,3 @@ all HTMLs, CSSs and JavaScripts in zhangxukun.top(47.108.236.22)
 
 
 ---
-
-#### ***未经授权，禁止转载。***
-##### ***转载请标明出处。***
